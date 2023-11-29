@@ -10,7 +10,7 @@ I've been learning code to code for 1 months , I will try my best to make it suc
 *   ✉️  You can contact me at [baylonjv491@gmail.com](mailto:baylonjv491@gmail.com)
 *   🧠  I'm learning html
 *   🤝  I'm open to collaborating on interesting codes
-*   ⚡  I'm the member of PowerRanger's color dark black
+*   ⚡  I'm the fourth member of PowerRanger dark black
 
  ### Skills 
  
