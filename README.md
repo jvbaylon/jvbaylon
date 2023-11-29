@@ -6,9 +6,9 @@ A web developer
 
 I've been learning code to code for 1 months , I will try my best to make it successfull
 
-*   🌍  I'm based in Manila
+*   🌍  I'm based in Metro manila
 *   ✉️  You can contact me at [baylonjv491@gmail.com](mailto:baylonjv491@gmail.com)
-*   🧠  I'm learning html
+*   🧠  I'm learning html and java 
 *   🤝  I'm open to collaborating on interesting codes
 *   ⚡  I'm the fourth member of PowerRanger dark black
 
